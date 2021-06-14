@@ -22,9 +22,9 @@ To run this analysis you need to install GLPK and a solver such as CBC, gurobi o
 It is recommended to run the dataset in combination with the fast code of  OSeMOSYS v1.0.1. https://github.com/OSeMOSYS/OSeMOSYS_GNU_MathProg/releases/download/v1.0.1/osemosys_gnu_mathprog_v1.0.1.zip 
 
 For the visualisation scripts you should have an environment with the following dependencies:
-- `python` >= 3.6 
-- `pandas`
-- `plotly`
+* `python` >= 3.6 
+* `pandas`
+* `plotly`
 
 Folder structure
 ----------------
