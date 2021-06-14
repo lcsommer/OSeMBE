@@ -1,6 +1,10 @@
 OSeMBE
 ======
 
+.. image:: https://readthedocs.org/projects/osembe/badge/?version=latest
+    :target: https://osembe.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 This repository cotains:
 
 The Open Source energy Model Base for the European Union (OSeMBE)
@@ -23,6 +27,11 @@ Folder structure
 
 - Input data are stored as `datapackages` in the `input_data` folder
 - A modified OSeMOSYS model file is stored in the `model` folder
+
+Documentation
+-------------
+
+A more detailed documentation of OSeMBE can be found here: https://osembe.readthedocs.io/en/latest/
 
 Licensing
 ---------
