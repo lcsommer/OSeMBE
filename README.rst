@@ -40,8 +40,7 @@ A more detailed documentation of OSeMBE can be found here: https://osembe.readth
 
 Licensing
 ---------
-- Data is released under the terms of a CC-BY-4.0 International License Agreement.
-- A modified copy of OSeMOSYS is redistribruted in this repository under Apache 2.0 license agreement, a copy of which can be found in the `model` folder
+OSeMBE is released under the terms of a CC-BY-4.0 International License Agreement. The license text can be found in the LICENSE.
 
 Citation
 --------
